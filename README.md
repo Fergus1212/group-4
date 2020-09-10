@@ -1,5 +1,5 @@
 # Descriptive Analytics- Austin Crime 2010-2018
-UT data analysis and visualization bootcamp project
+
 An analysis of crime, and census data between 2010 and 2018.
 Exploration and Visualization of:
   Crime Trends
